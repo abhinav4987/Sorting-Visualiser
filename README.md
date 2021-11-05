@@ -14,7 +14,7 @@ A sorting visualiser built with React.js
 - chose algorithm you want to visualise
 ![App Screenshot](https://res.cloudinary.com/dfwfghwgo/image/upload/v1636136277/readme/Screenshot_731_dx0igo.png)
 - play an pause visualisation
-- increase and decrease animation speed
+- increase and decrease animation speed for visualization
 ![App Screenshot](https://res.cloudinary.com/dfwfghwgo/image/upload/v1636138038/readme/Screenshot_732_vamfw2.png)
 - Algorithm specific data
 ![App Screenshot](https://res.cloudinary.com/dfwfghwgo/image/upload/v1636137937/readme/Screenshot_732_qkhxqj.png)
