@@ -1,0 +1,94 @@
+.topbar {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height:56px;
+    background: white;
+    padding-top: 0.3rem;
+}
+
+.toggler__button {
+    display: none;
+}
+
+.topbar__brand{
+    color: black;
+    font-size: 1.5rem;
+}
+
+.topbar__nav {
+    height: 100%;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    padding : 0 1rem;
+}
+
+.topbar_spacer {
+    flex: 0.96;
+}
+
+
+.topbar__utils ul  {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.topbar__utils li {
+    padding: 0 0.5rem;
+}
+
+.utils-item {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0.7rem;
+}
+
+@media only screen and (max-width: 900px) {
+    
+    .topbar {
+        box-shadow: none;
+    }
+    .topbar__utils  {
+        display: none;
+    }
+
+    .toggler__button {
+        display: inline-block;
+    }
+}
+
+
+.select_area {
+    border: none;
+    outline: none;
+    font-size: 1.2rem;
+    color: rgb(136, 136, 136);
+}
+
+.select_area__sizes{
+    border: none;
+    outline: none;
+    font-size: 1.2rem;
+    color: rgb(96, 96, 97);
+}
+select {
+    border: none;
+}
+
+.randomise {
+    border: 0.2px solid rgb(196, 196, 196);
+    background-color: white;
+    font-size: 1.2rem;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+
+.slider__util {
+    min-width: 300px;
+}

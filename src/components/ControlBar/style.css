@@ -1,0 +1,53 @@
+
+.controlBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.2rem;
+    cursor: pointer;
+}
+
+button {
+    cursor: pointer;
+}
+
+.buttons {
+    border: none;
+    background-color: white;
+    font-size: 1rem;
+    
+}
+
+.icons {
+    margin: 0;
+    text-align:center;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.repeat {
+    margin-right: 1.5rem;
+}
+
+.backwards {
+    margin-right: 1rem;
+    font-size: 2rem
+}
+
+.playNpause {
+    margin-right: 1rem;
+    font-size: 3rem;
+    background-color: aqua;
+    border-radius:3rem;
+    padding: 0.5rem
+}
+
+.forwards {
+    margin-right: 1rem;
+    font-size: 2rem
+}
+
+.speed__select {
+    font-size: 1rem;
+}

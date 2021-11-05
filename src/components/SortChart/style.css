@@ -1,0 +1,14 @@
+.sortChart {
+    
+    min-height: 218px;
+    height: 40vh;
+    background: rgb(175, 179, 177);
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 1rem;
+
+    margin: 0.5rem;
+    transition: 0.75s ease-in-out;
+}

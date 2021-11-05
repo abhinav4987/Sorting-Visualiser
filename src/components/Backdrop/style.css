@@ -1,0 +1,19 @@
+.backDrop {
+    height: 100%;
+    background: transparent;
+    position:fixed;
+    top: 56px;
+    left: 300px;
+    width: 100%;
+    transition: 0.5s ease-out;
+    z-index :-100000;
+}
+
+
+
+.open {
+    z-index: 10000;
+}
+
+
+

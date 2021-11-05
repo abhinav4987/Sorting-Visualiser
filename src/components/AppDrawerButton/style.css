@@ -1,0 +1,8 @@
+.toggle__button {
+    background-color: white;
+    border: none;
+    font-size: 1.8rem;
+    margin-top: 0.6rem;
+    margin-right: 1rem;
+    cursor: pointer;
+}

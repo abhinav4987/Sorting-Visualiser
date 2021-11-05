@@ -1,0 +1,28 @@
+.Bar {
+    background-color: rgb(255, 255, 255);
+    color: transparent;
+    display: flex;
+    flex-direction: column reverse;
+    align-items: flex-end;
+    transition: 125ms ease-in-out;
+}
+
+.Bar_sorted {
+    background-color:  rgb(0, 255, 0);
+}
+
+.Bar_stateD {
+    background-color: blue;
+}
+
+.Bar_stateC {
+    background-color: red;
+}
+
+.Bar_stateB {
+    background-color: rgb(247, 51, 214);
+}
+
+.Bar_stateA {
+    background-color: rgb(217, 233, 0);
+}
